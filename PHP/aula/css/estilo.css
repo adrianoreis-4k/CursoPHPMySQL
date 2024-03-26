@@ -2,7 +2,7 @@
 *{ margin: 0; padding: 0;}
 body{ font-family: helvetica, arial; font-size: 16px; color: #333; }
 header{ height: 120px; background-color: #262626; padding: 10px 0; }
-footer{ height: 50px; background-color: #4682B4; padding: 10px 0 }
+footer{ height: 50px; background-color: #4682B4; padding: 10px 0; }
 
 /* class */
 .container{ margin: 0 auto; width: 960px; }
