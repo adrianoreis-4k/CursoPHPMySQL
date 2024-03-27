@@ -5,3 +5,5 @@
         ©2024 Xane Cursos - Todos os direitos reservados.
     </div>
 </footer>
+</body>
+</html>
