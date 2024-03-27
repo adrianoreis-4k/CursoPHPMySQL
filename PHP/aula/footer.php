@@ -2,6 +2,6 @@
 
 <footer>
     <div class = "container">
-        Rodapé
+        ©2024 Xane Cursos - Todos os direitos reservados.
     </div>
 </footer>
