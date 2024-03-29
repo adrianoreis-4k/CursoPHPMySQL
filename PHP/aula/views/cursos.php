@@ -1,4 +1,4 @@
-<a href = "?pagina=inserir_curso">Inserir Curso</a>
+<a href = "?pagina=inserir_curso">Inserir novo curso</a>
 <table style="border: 1px Solid #ccc; width: 100%">
     <tr>
         <th>Nome do curso</th>
