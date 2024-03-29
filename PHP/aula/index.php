@@ -21,6 +21,9 @@ if($pagina == 'cursos'){
 elseif($pagina == 'alunos'){
     include 'views/alunos.php';
 }
+elseif($pagina == 'inserir_curso'){
+    include 'views/inserir_curso.php';
+}
 elseif($pagina == 'matriculas'){
     include 'views/matriculas.php';
 }
