@@ -27,6 +27,9 @@ elseif($pagina == 'inserir_curso'){
 elseif($pagina == 'inserir_aluno'){
     include 'views/inserir_aluno.php';
 }
+elseif($pagina == 'inserir_matricula'){
+    include 'views/inserir_matricula.php';
+}
 elseif($pagina == 'matriculas'){
     include 'views/matriculas.php';
 }
