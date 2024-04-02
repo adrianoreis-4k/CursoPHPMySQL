@@ -4,6 +4,7 @@
     <tr>
         <th>Nome do Aluno</th>
         <th>Nome do Curso</th>
+        <th>Deletar</th>
     </tr>
 
     <?php
