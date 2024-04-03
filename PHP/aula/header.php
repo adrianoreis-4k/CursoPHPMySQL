@@ -4,7 +4,8 @@
         <title>Xane Cursos</title>
         <meta charset = "UTF-8">
         <link rel = "stylesheet" href = "css/bootstrap.min.css">
-        <link rel = "stylesheet" href = "css/estilo1.css">
+        <link rel = "stylesheet" href = "//cdn.datatables.net/2.0.3/css/dataTables.dataTables.min.css">
+        <link rel = "stylesheet" href = "css/estilo2.css">
     </head>
 
     <body>

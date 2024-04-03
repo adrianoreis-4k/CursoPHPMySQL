@@ -1,7 +1,7 @@
 /* ESTILO.CSS */
 *{ margin: 0; padding: 0;}
 body{ font-family: helvetica, arial; font-size: 16px; color: #333; }
-header{ height: 90px; background-color: #262626; padding: 10px 0; }
+header{ height: 90px; background-color: #262626; }
 footer{ 
     height: 50px; 
     background-color: #4682B4; 
@@ -15,11 +15,11 @@ footer{
 /*.container{ margin: 0 auto; width: 960px; } */
 
 /* id */
-#conteudo{ padding: 50px 0;}
-#menu{ float: right; padding: 35px 0;}
+#conteudo{ padding: 100px 0;}
+#menu{ float: right; padding: 31px 0;}
 #menu a{ 
     text-decoration: none;  /* Tira o underline  */
-    padding: 20px 40px; 
+    padding: 39px 40px; 
     color: #e3e3e3;
     text-shadow: 1px 1px 1px #111;
 }
