@@ -3,6 +3,7 @@
     <head>
         <title>Xane Cursos</title>
         <meta charset = "UTF-8">
+        <link rel = "stylesheet" href = "css/bootstrap.min.css">
         <link rel = "stylesheet" href = "css/estilo1.css">
     </head>
 

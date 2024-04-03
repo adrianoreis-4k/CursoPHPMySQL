@@ -1,6 +1,6 @@
-<a href="?pagina=inserir_matricula">Inserir nova matrícula</a>
+<a class="btn btn-success" href="?pagina=inserir_matricula">Inserir nova matrícula</a>
 
-<table style = "border: 1px solid #ccc; width: 100%">
+<table class="table">
     <tr>
         <th>Nome do Aluno</th>
         <th>Nome do Curso</th>

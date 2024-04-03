@@ -12,14 +12,14 @@ footer{
 }
 
 /* class */
-.container{ margin: 0 auto; width: 960px; }
+/*.container{ margin: 0 auto; width: 960px; } */
 
 /* id */
 #conteudo{ padding: 50px 0;}
 #menu{ float: right; padding: 35px 0;}
 #menu a{ 
     text-decoration: none;  /* Tira o underline  */
-    padding: 45px 50px; 
+    padding: 20px 40px; 
     color: #e3e3e3;
     text-shadow: 1px 1px 1px #111;
 }
