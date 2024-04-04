@@ -1,1 +1,1 @@
-<h1>Bem-vindos a Xane Cursos</h1>
+<h1 id="mensagem_inicial">Bem-vindos a Xane Cursos</h1>

@@ -24,4 +24,8 @@ footer{
     text-shadow: 1px 1px 1px #111;
 }
 
-#menu a:hover{ background-color: #44b874;}
+#menu a:hover{ background-color: #08aa4c;}
+
+#mensagem_inicial {
+    padding-bottom: 203px;
+}

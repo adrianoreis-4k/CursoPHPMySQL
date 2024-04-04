@@ -5,7 +5,8 @@
         <meta charset = "UTF-8">
         <link rel = "stylesheet" href = "css/bootstrap.min.css">
         <link rel = "stylesheet" href = "//cdn.datatables.net/2.0.3/css/dataTables.dataTables.min.css">
-        <link rel = "stylesheet" href = "css/estilo2.css">
+        <link rel = "stylesheet" href = "css/estilo3.css">
+        <script src="https://kit.fontawesome.com/ca04ac2e06.js" crossorigin="anonymous"></script>
     </head>
 
     <body>

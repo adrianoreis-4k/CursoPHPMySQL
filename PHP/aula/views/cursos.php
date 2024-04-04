@@ -16,8 +16,14 @@
                 echo '<td>'.$linha['carga_horaria'].'</td>';
             
         ?>
-            <td><a href="?pagina=inserir_curso&editar=<?php echo $linha['id_curso']; ?>">Editar</a></td>
-            <td><a href="deleta_curso.php?id_curso=<?php echo $linha['id_curso']; ?>">Deletar</a></td></tr></tr>
+            <td><a href="?pagina=inserir_curso&editar=<?php echo $linha['id_curso']; ?>">
+                <i class="fas fa-pen-to-square"></i>
+            </a></td>
+            <td><a href="deleta_curso.php?id_curso=<?php echo $linha['id_curso']; ?>">
+                <span style="color: Tomato;">
+                    <i class="fas fa-trash-can"></i>
+                </span>
+            </a></td></tr></tr>
         
         <?php
             }
