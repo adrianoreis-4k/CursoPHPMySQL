@@ -12,3 +12,10 @@
     <input type="submit" value="Entrar" class="btn btn-success">
 
 </form>
+
+<br>
+<?php if(isset($_GET['erro'])){ ?>
+    <div class="alert alert-danger" role="alert">
+        Usuário e/ou senha inválidos.
+    </div>
+ <?php } ?>  
