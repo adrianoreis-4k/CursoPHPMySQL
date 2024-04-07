@@ -13,10 +13,3 @@ class Pessoa{
     }
 }
 
-$uma_pessoa = new Pessoa;
-$uma_pessoa->nome = "Diego";
-$uma_pessoa->site = "www.diegomariano.com";
-
-$uma_pessoa->falarNome();
-echo '<br>';
-$uma_pessoa->falarSite();
