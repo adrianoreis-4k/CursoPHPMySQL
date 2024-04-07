@@ -1,4 +1,4 @@
-<h1 style="text-align: center">Bem-vindos a Xane Cursos</h1>
+<h1 style="text-align: center">Bem-vindo(a) a Xane Cursos</h1>
 
 <form method="post" action="login.php">
     <label class="badge text-bg-secondary">Usuário:</label>
@@ -18,4 +18,4 @@
     <div class="alert alert-danger" role="alert">
         Usuário e/ou senha inválidos.
     </div>
- <?php } ?>  
+<?php } ?>
