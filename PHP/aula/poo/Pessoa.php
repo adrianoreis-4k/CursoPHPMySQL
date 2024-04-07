@@ -1,5 +1,6 @@
 <?php
 
+/*
 class Pessoa{
     public $nome;
     public $site;
@@ -12,4 +13,16 @@ class Pessoa{
         echo $this->site;
     }
 }
+*/
 
+class Pessoa{
+    private $nome;
+    
+    public function setNome($novoNome){
+        $this->nome = $novoNome;
+    }
+
+    public function getNome(){
+        return $this->nome;
+    }
+}
