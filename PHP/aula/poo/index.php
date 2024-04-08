@@ -25,3 +25,7 @@ $programador = new Programador("Diego", "PHP");
 echo $programador->getNome();
 echo '<br>';
 echo $programador->getLinguagem();
+echo '<br>';
+
+# constantes
+echo $programador::ESPECIE;
