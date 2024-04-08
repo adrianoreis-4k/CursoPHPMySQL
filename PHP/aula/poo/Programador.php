@@ -7,6 +7,8 @@ class Programador extends Pessoa{           // Classe "Programador" herda da cla
     {
         $this->nome = $tempNome;
         $this->linguagem = $tempLinguagem;
+
+        echo "<br>Objeto ".__class__." foi instanciado.<br>";
     }
 
     public function getLinguagem(){
