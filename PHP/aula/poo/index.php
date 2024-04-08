@@ -4,15 +4,17 @@ require "Pessoa.php";
 // require_once "Pessoa.php";    Impede a chamada do arquivo mais de uma vez
 // include "Pessoa.php";        Não trava a aplicação, mas informa o erro através de um "warning"
 
-$uma_pessoa = new Pessoa;
-// $uma_pessoa->nome = "Diego";
-// $uma_pessoa->site = "www.diegomariano.com";      Só funcionam se as variáveis forem "public"
+// $uma_pessoa = new Pessoa;
+// $pessoa->nome = "Diego";
+// $pessoa->site = "www.diegomariano.com";      Só funcionam se as variáveis forem "public"
 
 /*
-$uma_pessoa->falarNome();
+$pessoa->falarNome();
 echo '<br>';
-$uma_pessoa->falarSite();
+$pessoa->falarSite();
 */
 
-$uma_pessoa->setNome("Adriano");
-echo $uma_pessoa->getNome();
+// $pessoa->setNome("Adriano");         // Altera o valor da variável "nome".
+
+$pessoa = new Pessoa("Diego");
+echo $pessoa->getNome();            // Pega o valor da variável.

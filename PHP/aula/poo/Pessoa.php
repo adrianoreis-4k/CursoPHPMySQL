@@ -17,6 +17,10 @@ class Pessoa{
 
 class Pessoa{
     private $nome;
+
+    public function __construct($tmpNome){
+        $this->nome = $tmpNome;
+    }
     
     public function setNome($novoNome){
         $this->nome = $novoNome;
